@@ -13,7 +13,15 @@ Interactive Power BI dashboard for gaming sales analysis including revenue trend
 - Product contribution analysis
 
 ## Dashboard Preview
-![Dashboard](image.png)
+
+### Homepage
+![Homepage](homepage.png)
+
+### Sales View
+![Sales](salesview.png)
+
+### Performance View
+![Performance](performview.png)
 
 ## File
 Download .pbix file in this repository.
